@@ -10,3 +10,4 @@ squash line 1
 squash line 2
 
 for git reset 1
+for git reset 2
