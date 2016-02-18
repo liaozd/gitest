@@ -8,3 +8,6 @@ line6
 squash try
 squash line 1
 squash line 2
+
+2016.2.16 commit 1
+2016.2.16 commit 2
