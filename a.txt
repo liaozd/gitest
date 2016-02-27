@@ -2,6 +2,6 @@ A
 B
 C
 Change by Master
-E
+Another New update
 Start A git rebase test
 
