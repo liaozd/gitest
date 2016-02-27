@@ -1,7 +1,7 @@
 A
 B
 C
-D
+Change Here( Rebase test)
 E
 Start A git rebase test
 
