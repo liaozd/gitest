@@ -14,5 +14,4 @@ for git reset 2
 working on master branch done by others
 2016.2.16 commit 1
 2016.2.16 commit 2
-conflict line on git master
 
