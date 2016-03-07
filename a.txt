@@ -6,3 +6,5 @@ E
 Start A git rebase test
 insert this line after 96.json deleted
 insert 2nd line again for testing rebase
+insert after NewBranch rebase and pushed
+
