@@ -5,3 +5,4 @@ Change Here( Rebase test)
 E
 Start A git rebase test
 insert this line after 96.json deleted
+insert 2nd line again for testing rebase
