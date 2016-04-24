@@ -10,4 +10,3 @@ insert after NewBranch rebase and pushed
  <- add a spcae here
  <- ff merge 
 
-- git merge --strategy=ours br-strategy-ours
