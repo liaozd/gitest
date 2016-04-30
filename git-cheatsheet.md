@@ -16,3 +16,7 @@
 > `git cherry-pick --signoff anther-br`
 
 > `git cherry --verbose another-br`
+
+##### Chapter6 Rewriting history and disaster recovery
+
+> `git reflog` equal to `git log --walk-reflogs --abbrev-commit --pretty=oneline`
