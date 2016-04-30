@@ -12,5 +12,3 @@
 > `git cherry-pick -x another-br`
 
 > `git cherry-pick --edit -x anther-br`
-
-> `git cherry-pick --signoff anther-br`
