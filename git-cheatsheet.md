@@ -14,3 +14,5 @@
 > `git cherry-pick --edit -x anther-br`
 
 > `git cherry-pick --signoff anther-br`
+
+> `git cherry --verbose another-br`
