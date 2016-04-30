@@ -9,3 +9,5 @@
 
 > `git cherry-pick --edit another-br`
 
+> `git cherry-pick -x another-br`
+
