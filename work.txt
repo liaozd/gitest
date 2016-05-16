@@ -11,6 +11,8 @@ squash try
 squash line 1
 squash line 2
 
+cherry pick 1
+
 for git reset 1
 for git reset 2
 working on master branch done by others
