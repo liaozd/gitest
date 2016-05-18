@@ -20,9 +20,12 @@
 ##### Chapter6 Rewriting history and disaster recovery
 
 > `git reflog` equal to `git log --walk-reflogs --abbrev-commit --pretty=oneline`
+<<<<<<< HEAD
 
 > `git fsck`
 
 > `git reset HEAD^ -- git-cheatsheet.md` The -- is optinal but makes more explicit the separation bwtween the ref and paths.
 
 > `git reset --soft HEAD^` --soft reset neither the staging area nor the working tree but just changes the HEAD pointer to point to the previous commit.
+=======
+>>>>>>> bb957e060b16cc5e6c909306181c6de865269023
