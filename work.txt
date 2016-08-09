@@ -6,6 +6,7 @@ line5
 line6
 line7
 line8
+line9
 
 squash try
 squash line 1
