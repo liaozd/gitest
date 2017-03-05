@@ -133,7 +133,6 @@
               <mediatype>audio</mediatype>
               <trackindex>1</trackindex>
               <clipindex>1</clipindex>
-              <groupindex>1</groupindex>
             </link>
             <link>
               <linkclipref>1102_280_d_05_499_0148 2</linkclipref>
@@ -202,14 +201,12 @@
               <mediatype>audio</mediatype>
               <trackindex>1</trackindex>
               <clipindex>1</clipindex>
-              <groupindex>1</groupindex>
             </link>
             <link>
               <linkclipref>1102_280_d_05_499_0149 2</linkclipref>
               <mediatype>audio</mediatype>
               <trackindex>2</trackindex>
               <clipindex>2</clipindex>
-              <groupindex>1</groupindex>
             </link>
           </clipitem>
           <enabled>TRUE</enabled>
@@ -252,14 +249,12 @@
               <mediatype>audio</mediatype>
               <trackindex>1</trackindex>
               <clipindex>1</clipindex>
-              <groupindex>1</groupindex>
             </link>
             <link>
               <linkclipref>1102_280_d_05_499_0148 2</linkclipref>
               <mediatype>audio</mediatype>
               <trackindex>2</trackindex>
               <clipindex>2</clipindex>
-              <groupindex>1</groupindex>
             </link>
           </clipitem>
           <clipitem id="1102_280_d_05_499_0149 ">
@@ -297,7 +292,6 @@
               <mediatype>audio</mediatype>
               <trackindex>2</trackindex>
               <clipindex>2</clipindex>
-              <groupindex>1</groupindex>
             </link>
           </clipitem>
           <enabled>TRUE</enabled>
@@ -339,7 +333,6 @@
               <mediatype>audio</mediatype>
               <trackindex>2</trackindex>
               <clipindex>2</clipindex>
-              <groupindex>1</groupindex>
             </link>
           </clipitem>
           <clipitem id="1102_280_d_05_499_0149 ">
@@ -370,14 +363,12 @@
               <mediatype>audio</mediatype>
               <trackindex>1</trackindex>
               <clipindex>1</clipindex>
-              <groupindex>1</groupindex>
             </link>
             <link>
               <linkclipref>1102_280_d_05_499_0149 2</linkclipref>
               <mediatype>audio</mediatype>
               <trackindex>2</trackindex>
               <clipindex>2</clipindex>
-              <groupindex>1</groupindex>
             </link>
           </clipitem>
           <enabled>TRUE</enabled>
