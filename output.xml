@@ -123,7 +123,7 @@
               <mediatype>video</mediatype>
             </sourcetrack>
             <link>
-              <linkclipref>1102_280_d_05_499_0148</linkclipref>
+              <linkclipref>1102_280_d_05_499_0148 </linkclipref>
               <mediatype>video</mediatype>
               <trackindex>1</trackindex>
               <clipindex>1</clipindex>
@@ -155,7 +155,6 @@
             <pixelaspectratio>Square</pixelaspectratio>
             <anamorphic>FALSE</anamorphic>
             <alphatype>none</alphatype>
-            <masterclipid>1102_280_d_05_499_0149 2</masterclipid>
             <file id="1102_280_d_05_499_0149 2">
               <name>1102_280_d_05_499_0149.mov</name>
               <pathurl>file://localhost/Users/liaozhuodi/Downloads/single_sound_track_problem_201611/1118_280_a_05/1102_280_d_05_499_0149.mov</pathurl>
@@ -190,7 +189,7 @@
               </media>
             </file>
             <link>
-              <linkclipref>1102_280_d_05_499_0149</linkclipref>
+              <linkclipref>1102_280_d_05_499_0149 </linkclipref>
               <mediatype>video</mediatype>
               <trackindex>1</trackindex>
               <clipindex>2</clipindex>
@@ -238,7 +237,7 @@
               <trackindex>1</trackindex>
             </sourcetrack>
             <link>
-              <linkclipref>1102_280_d_05_499_0148</linkclipref>
+              <linkclipref>1102_280_d_05_499_0148 </linkclipref>
               <mediatype>video</mediatype>
               <trackindex>1</trackindex>
               <clipindex>1</clipindex>
@@ -267,14 +266,13 @@
             <out>356</out>
             <start>136990</start>
             <end>137346</end>
-            <masterclipid>1102_280_d_05_499_0149 2</masterclipid>
             <file id="1102_280_d_05_499_0149 2"/>
             <sourcetrack>
               <mediatype>audio</mediatype>
               <trackindex>1</trackindex>
             </sourcetrack>
             <link>
-              <linkclipref>1102_280_d_05_499_0149</linkclipref>
+              <linkclipref>1102_280_d_05_499_0149 </linkclipref>
               <mediatype>video</mediatype>
               <trackindex>1</trackindex>
               <clipindex>2</clipindex>
@@ -294,6 +292,7 @@
           </clipitem>
           <enabled>TRUE</enabled>
           <locked>FALSE</locked>
+          <outputchannelindex>1</outputchannelindex>
         </track>
         <track>
           <clipitem id="1102_280_d_05_499_0148 ">
@@ -314,7 +313,7 @@
               <trackindex>2</trackindex>
             </sourcetrack>
             <link>
-              <linkclipref>1102_280_d_05_499_0148</linkclipref>
+              <linkclipref>1102_280_d_05_499_0148 </linkclipref>
               <mediatype>video</mediatype>
               <trackindex>1</trackindex>
               <clipindex>1</clipindex>
@@ -343,14 +342,13 @@
             <out>356</out>
             <start>136990</start>
             <end>137346</end>
-            <masterclipid>1102_280_d_05_499_0149 2</masterclipid>
             <file id="1102_280_d_05_499_0149 2"/>
             <sourcetrack>
               <mediatype>audio</mediatype>
               <trackindex>1</trackindex>
             </sourcetrack>
             <link>
-              <linkclipref>1102_280_d_05_499_0149</linkclipref>
+              <linkclipref>1102_280_d_05_499_0149 </linkclipref>
               <mediatype>video</mediatype>
               <trackindex>1</trackindex>
               <clipindex>2</clipindex>
