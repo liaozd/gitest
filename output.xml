@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE xmeml>
+<xmeml version="5">
+  <sequence id="Sequence ID">
+    <uuid>4ad67bee-01b7-11e7-84cb-f40f2420506e</uuid>
+    <updatebehavior>add</updatebehavior>
+    <name>Melissa DIT Tool XML Template</name>
+    <duration>137346</duration>
+    <rate>
+      <ntsc>FALSE</ntsc>
+      <timebase>25</timebase>
+    </rate>
+    <timecode>
+      <rate>
+        <ntsc>FALSE</ntsc>
+        <timebase>25</timebase>
+      </rate>
+      <string>16:04:23:05</string>
+      <frame>1446580</frame>
+      <source>source</source>
+      <displayformat>NDF</displayformat>
+    </timecode>
+    <in>-1</in>
+    <out>-1</out>
+    <media>
+      <video>
+        <format>
+          <samplecharacteristics>
+            <width>1920</width>
+            <height>1080</height>
+            <anamorphic>FALSE</anamorphic>
+            <pixelaspectratio>Square</pixelaspectratio>
+            <fielddominance>none</fielddominance>
+            <rate>
+              <ntsc>FALSE</ntsc>
+              <timebase>25</timebase>
+            </rate>
+            <colordepth>24</colordepth>
+            <codec>
+              <name>Apple ProRes 422</name>
+              <appspecificdata>
+                <appname>Final Cut Pro</appname>
+                <appmanufacturer>Apple Inc.</appmanufacturer>
+                <appversion>7.0</appversion>
+                <data>
+                  <qtcodec>
+                    <codecname>Apple ProRes 422</codecname>
+                    <codectypename>Apple ProRes 422</codectypename>
+                    <codectypecode>apcn</codectypecode>
+                    <codecvendorcode>appl</codecvendorcode>
+                    <spatialquality>1024</spatialquality>
+                    <temporalquality>0</temporalquality>
+                    <keyframerate>0</keyframerate>
+                    <datarate>0</datarate>
+                  </qtcodec>
+                </data>
+              </appspecificdata>
+            </codec>
+          </samplecharacteristics>
+          <appspecificdata>
+            <appname>Final Cut Pro</appname>
+            <appmanufacturer>Apple Inc.</appmanufacturer>
+            <appversion>7.0</appversion>
+            <data>
+              <fcpimageprocessing>
+                <useyuv>TRUE</useyuv>
+                <usesuperwhite>FALSE</usesuperwhite>
+                <rendermode>Float10BPP</rendermode>
+              </fcpimageprocessing>
+            </data>
+          </appspecificdata>
+        </format>
+        <track>
+          <clipitem id="1102_280_d_05_499_0148 ">
+            <name>1102_280_d_05_499_0148</name>
+            <duration>759</duration>
+            <rate>
+              <ntsc>FALSE</ntsc>
+              <timebase>25</timebase>
+            </rate>
+            <in>0</in>
+            <out>759</out>
+            <start>0</start>
+            <end>759</end>
+            <pixelaspectratio>Square</pixelaspectratio>
+            <anamorphic>FALSE</anamorphic>
+            <alphatype>none</alphatype>
+            <masterclipid>1102_280_d_05_499_0148 1</masterclipid>
+            <file id="1102_280_d_05_499_0148 2">
+              <name>1102_280_d_05_499_0148.mov</name>
+              <pathurl>file://localhost/Users/liaozhuodi/Downloads/single_sound_track_problem_201611/1118_280_a_05/1102_280_d_05_499_0148.mov</pathurl>
+              <rate>
+                <timebase>25</timebase>
+              </rate>
+              <duration>759</duration>
+              <timecode>
+                <rate>
+                  <timebase>25</timebase>
+                </rate>
+                <string>16:04:23:05</string>
+                <frame>1446580</frame>
+                <displayformat>NDF</displayformat>
+                <source>source</source>
+              </timecode>
+              <media>
+                <video>
+                  <duration>759</duration>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                  </samplecharacteristics>
+                </video>
+                <audio>
+                  <samplecharacteristics>
+                    <samplerate>48000</samplerate>
+                    <depth>16</depth>
+                  </samplecharacteristics>
+                  <channelcount>8</channelcount>
+                </audio>
+              </media>
+            </file>
+            <sourcetrack>
+              <mediatype>video</mediatype>
+            </sourcetrack>
+            <link>
+              <linkclipref>1102_280_d_05_499_0148 </linkclipref>
+              <mediatype>video</mediatype>
+              <trackindex>1</trackindex>
+              <clipindex>1</clipindex>
+            </link>
+            <link>
+              <linkclipref>1102_280_d_05_499_0148 3</linkclipref>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+              <clipindex>1</clipindex>
+            </link>
+            <link>
+              <linkclipref>1102_280_d_05_499_0148 4</linkclipref>
+              <mediatype>audio</mediatype>
+              <trackindex>2</trackindex>
+              <clipindex>1</clipindex>
+            </link>
+          </clipitem>
+          <clipitem id="1102_280_d_05_499_0149 ">
+            <name>1102_280_d_05_499_0149</name>
+            <duration>356</duration>
+            <rate>
+              <ntsc>FALSE</ntsc>
+              <timebase>25</timebase>
+            </rate>
+            <in>0</in>
+            <out>356</out>
+            <start>136990</start>
+            <end>137346</end>
+            <pixelaspectratio>Square</pixelaspectratio>
+            <anamorphic>FALSE</anamorphic>
+            <alphatype>none</alphatype>
+            <file id="1102_280_d_05_499_0149 1">
+              <name>1102_280_d_05_499_0149.mov</name>
+              <pathurl>file://localhost/Users/liaozhuodi/Downloads/single_sound_track_problem_201611/1118_280_a_05/1102_280_d_05_499_0149.mov</pathurl>
+              <rate>
+                <timebase>25</timebase>
+              </rate>
+              <duration>356</duration>
+              <timecode>
+                <rate>
+                  <timebase>25</timebase>
+                </rate>
+                <string>17:35:42:20</string>
+                <frame>1583570</frame>
+                <displayformat>NDF</displayformat>
+                <source>source</source>
+              </timecode>
+              <media>
+                <video>
+                  <duration>356</duration>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                  </samplecharacteristics>
+                </video>
+                <audio>
+                  <samplecharacteristics>
+                    <samplerate>48000</samplerate>
+                    <depth>16</depth>
+                  </samplecharacteristics>
+                  <channelcount>8</channelcount>
+                </audio>
+              </media>
+            </file>
+            <link>
+              <linkclipref>1102_280_d_05_499_0149 </linkclipref>
+              <mediatype>video</mediatype>
+              <trackindex>1</trackindex>
+              <clipindex>2</clipindex>
+            </link>
+            <link>
+              <linkclipref>1102_280_d_05_499_0149 2</linkclipref>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+              <clipindex>2</clipindex>
+            </link>
+            <link>
+              <linkclipref>1102_280_d_05_499_0149 3</linkclipref>
+              <mediatype>audio</mediatype>
+              <trackindex>2</trackindex>
+              <clipindex>2</clipindex>
+            </link>
+          </clipitem>
+          <enabled>TRUE</enabled>
+          <locked>FALSE</locked>
+        </track>
+      </video>
+      <audio>
+        <format>
+          <samplecharacteristics>
+            <depth>16</depth>
+            <samplerate>48000</samplerate>
+          </samplecharacteristics>
+        </format>
+        <track>
+          <clipitem id="1102_280_d_05_499_0148 3">
+            <name>1102_280_d_05_499_0148</name>
+            <duration>759</duration>
+            <rate>
+              <ntsc>FALSE</ntsc>
+              <timebase>25</timebase>
+            </rate>
+            <in>0</in>
+            <out>759</out>
+            <start>0</start>
+            <end>759</end>
+            <masterclipid>1102_280_d_05_499_0148 1</masterclipid>
+            <file id="1102_280_d_05_499_0148 2"/>
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+            <link>
+              <linkclipref>1102_280_d_05_499_0148 </linkclipref>
+              <mediatype>video</mediatype>
+              <trackindex>1</trackindex>
+              <clipindex>1</clipindex>
+            </link>
+            <link>
+              <linkclipref>1102_280_d_05_499_0148 3</linkclipref>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+              <clipindex>1</clipindex>
+            </link>
+            <link>
+              <linkclipref>1102_280_d_05_499_0148 4</linkclipref>
+              <mediatype>audio</mediatype>
+              <trackindex>2</trackindex>
+              <clipindex>1</clipindex>
+            </link>
+          </clipitem>
+          <clipitem id="1102_280_d_05_499_0149 2">
+            <name>1102_280_d_05_499_0149</name>
+            <duration>356</duration>
+            <rate>
+              <ntsc>FALSE</ntsc>
+              <timebase>25</timebase>
+            </rate>
+            <in>0</in>
+            <out>356</out>
+            <start>136990</start>
+            <end>137346</end>
+            <file id="1102_280_d_05_499_0149 1"/>
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+            <link>
+              <linkclipref>1102_280_d_05_499_0149 </linkclipref>
+              <mediatype>video</mediatype>
+              <trackindex>1</trackindex>
+              <clipindex>2</clipindex>
+            </link>
+            <link>
+              <linkclipref>1102_280_d_05_499_0149 2</linkclipref>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+              <clipindex>2</clipindex>
+            </link>
+            <link>
+              <linkclipref>1102_280_d_05_499_0149 3</linkclipref>
+              <mediatype>audio</mediatype>
+              <trackindex>2</trackindex>
+              <clipindex>2</clipindex>
+            </link>
+          </clipitem>
+          <enabled>TRUE</enabled>
+          <locked>FALSE</locked>
+          <outputchannelindex>1</outputchannelindex>
+        </track>
+        <track>
+          <clipitem id="1102_280_d_05_499_0148 4">
+            <name>1102_280_d_05_499_0148</name>
+            <duration>759</duration>
+            <rate>
+              <ntsc>FALSE</ntsc>
+              <timebase>25</timebase>
+            </rate>
+            <in>0</in>
+            <out>759</out>
+            <start>0</start>
+            <end>759</end>
+            <masterclipid>1102_280_d_05_499_0148 1</masterclipid>
+            <file id="1102_280_d_05_499_0148 2"/>
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>2</trackindex>
+            </sourcetrack>
+            <link>
+              <linkclipref>1102_280_d_05_499_0148 </linkclipref>
+              <mediatype>video</mediatype>
+              <trackindex>1</trackindex>
+              <clipindex>1</clipindex>
+            </link>
+            <link>
+              <linkclipref>1102_280_d_05_499_0148 3</linkclipref>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+              <clipindex>1</clipindex>
+            </link>
+            <link>
+              <linkclipref>1102_280_d_05_499_0148 4</linkclipref>
+              <mediatype>audio</mediatype>
+              <trackindex>2</trackindex>
+              <clipindex>1</clipindex>
+            </link>
+          </clipitem>
+          <clipitem id="1102_280_d_05_499_0149 3">
+            <name>1102_280_d_05_499_0149</name>
+            <duration>356</duration>
+            <rate>
+              <ntsc>FALSE</ntsc>
+              <timebase>25</timebase>
+            </rate>
+            <in>0</in>
+            <out>356</out>
+            <start>136990</start>
+            <end>137346</end>
+            <file id="1102_280_d_05_499_0149 1"/>
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+            <link>
+              <linkclipref>1102_280_d_05_499_0149 </linkclipref>
+              <mediatype>video</mediatype>
+              <trackindex>1</trackindex>
+              <clipindex>2</clipindex>
+            </link>
+            <link>
+              <linkclipref>1102_280_d_05_499_0149 2</linkclipref>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+              <clipindex>2</clipindex>
+            </link>
+            <link>
+              <linkclipref>1102_280_d_05_499_0149 3</linkclipref>
+              <mediatype>audio</mediatype>
+              <trackindex>2</trackindex>
+              <clipindex>2</clipindex>
+            </link>
+          </clipitem>
+          <enabled>TRUE</enabled>
+          <locked>FALSE</locked>
+          <outputchannelindex>2</outputchannelindex>
+        </track>
+      </audio>
+    </media>
+    <ismasterclip>FALSE</ismasterclip>
+  </sequence>
+</xmeml>
