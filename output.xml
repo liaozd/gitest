@@ -129,13 +129,13 @@
               <clipindex>1</clipindex>
             </link>
             <link>
-              <linkclipref>1102_280_d_05_499_0148 1</linkclipref>
+              <linkclipref>1102_280_d_05_499_0148 3</linkclipref>
               <mediatype>audio</mediatype>
               <trackindex>1</trackindex>
               <clipindex>1</clipindex>
             </link>
             <link>
-              <linkclipref>1102_280_d_05_499_0148 2</linkclipref>
+              <linkclipref>1102_280_d_05_499_0148 4</linkclipref>
               <mediatype>audio</mediatype>
               <trackindex>2</trackindex>
               <clipindex>1</clipindex>
@@ -155,7 +155,7 @@
             <pixelaspectratio>Square</pixelaspectratio>
             <anamorphic>FALSE</anamorphic>
             <alphatype>none</alphatype>
-            <file id="1102_280_d_05_499_0149 2">
+            <file id="1102_280_d_05_499_0149 1">
               <name>1102_280_d_05_499_0149.mov</name>
               <pathurl>file://localhost/Users/liaozhuodi/Downloads/single_sound_track_problem_201611/1118_280_a_05/1102_280_d_05_499_0149.mov</pathurl>
               <rate>
@@ -195,13 +195,13 @@
               <clipindex>2</clipindex>
             </link>
             <link>
-              <linkclipref>1102_280_d_05_499_0149 1</linkclipref>
+              <linkclipref>1102_280_d_05_499_0149 2</linkclipref>
               <mediatype>audio</mediatype>
               <trackindex>1</trackindex>
               <clipindex>2</clipindex>
             </link>
             <link>
-              <linkclipref>1102_280_d_05_499_0149 2</linkclipref>
+              <linkclipref>1102_280_d_05_499_0149 3</linkclipref>
               <mediatype>audio</mediatype>
               <trackindex>2</trackindex>
               <clipindex>2</clipindex>
@@ -219,7 +219,7 @@
           </samplecharacteristics>
         </format>
         <track>
-          <clipitem id="1102_280_d_05_499_0148 ">
+          <clipitem id="1102_280_d_05_499_0148 3">
             <name>1102_280_d_05_499_0148</name>
             <duration>759</duration>
             <rate>
@@ -243,19 +243,19 @@
               <clipindex>1</clipindex>
             </link>
             <link>
-              <linkclipref>1102_280_d_05_499_0148 1</linkclipref>
+              <linkclipref>1102_280_d_05_499_0148 3</linkclipref>
               <mediatype>audio</mediatype>
               <trackindex>1</trackindex>
               <clipindex>1</clipindex>
             </link>
             <link>
-              <linkclipref>1102_280_d_05_499_0148 2</linkclipref>
+              <linkclipref>1102_280_d_05_499_0148 4</linkclipref>
               <mediatype>audio</mediatype>
               <trackindex>2</trackindex>
               <clipindex>1</clipindex>
             </link>
           </clipitem>
-          <clipitem id="1102_280_d_05_499_0149 ">
+          <clipitem id="1102_280_d_05_499_0149 2">
             <name>1102_280_d_05_499_0149</name>
             <duration>356</duration>
             <rate>
@@ -266,7 +266,7 @@
             <out>356</out>
             <start>136990</start>
             <end>137346</end>
-            <file id="1102_280_d_05_499_0149 2"/>
+            <file id="1102_280_d_05_499_0149 1"/>
             <sourcetrack>
               <mediatype>audio</mediatype>
               <trackindex>1</trackindex>
@@ -278,13 +278,13 @@
               <clipindex>2</clipindex>
             </link>
             <link>
-              <linkclipref>1102_280_d_05_499_0149 1</linkclipref>
+              <linkclipref>1102_280_d_05_499_0149 2</linkclipref>
               <mediatype>audio</mediatype>
               <trackindex>1</trackindex>
               <clipindex>2</clipindex>
             </link>
             <link>
-              <linkclipref>1102_280_d_05_499_0149 2</linkclipref>
+              <linkclipref>1102_280_d_05_499_0149 3</linkclipref>
               <mediatype>audio</mediatype>
               <trackindex>2</trackindex>
               <clipindex>2</clipindex>
@@ -295,7 +295,7 @@
           <outputchannelindex>1</outputchannelindex>
         </track>
         <track>
-          <clipitem id="1102_280_d_05_499_0148 ">
+          <clipitem id="1102_280_d_05_499_0148 4">
             <name>1102_280_d_05_499_0148</name>
             <duration>759</duration>
             <rate>
@@ -319,19 +319,19 @@
               <clipindex>1</clipindex>
             </link>
             <link>
-              <linkclipref>1102_280_d_05_499_0148 1</linkclipref>
+              <linkclipref>1102_280_d_05_499_0148 3</linkclipref>
               <mediatype>audio</mediatype>
               <trackindex>1</trackindex>
               <clipindex>1</clipindex>
             </link>
             <link>
-              <linkclipref>1102_280_d_05_499_0148 2</linkclipref>
+              <linkclipref>1102_280_d_05_499_0148 4</linkclipref>
               <mediatype>audio</mediatype>
               <trackindex>2</trackindex>
               <clipindex>1</clipindex>
             </link>
           </clipitem>
-          <clipitem id="1102_280_d_05_499_0149 ">
+          <clipitem id="1102_280_d_05_499_0149 3">
             <name>1102_280_d_05_499_0149</name>
             <duration>356</duration>
             <rate>
@@ -342,7 +342,7 @@
             <out>356</out>
             <start>136990</start>
             <end>137346</end>
-            <file id="1102_280_d_05_499_0149 2"/>
+            <file id="1102_280_d_05_499_0149 1"/>
             <sourcetrack>
               <mediatype>audio</mediatype>
               <trackindex>1</trackindex>
@@ -354,13 +354,13 @@
               <clipindex>2</clipindex>
             </link>
             <link>
-              <linkclipref>1102_280_d_05_499_0149 1</linkclipref>
+              <linkclipref>1102_280_d_05_499_0149 2</linkclipref>
               <mediatype>audio</mediatype>
               <trackindex>1</trackindex>
               <clipindex>2</clipindex>
             </link>
             <link>
-              <linkclipref>1102_280_d_05_499_0149 2</linkclipref>
+              <linkclipref>1102_280_d_05_499_0149 3</linkclipref>
               <mediatype>audio</mediatype>
               <trackindex>2</trackindex>
               <clipindex>2</clipindex>
