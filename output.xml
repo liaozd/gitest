@@ -115,7 +115,7 @@
                     <samplerate>48000</samplerate>
                     <depth>16</depth>
                   </samplecharacteristics>
-                  <channelcount>2</channelcount>
+                  <channelcount>8</channelcount>
                 </audio>
               </media>
             </file>
@@ -185,7 +185,7 @@
                     <samplerate>48000</samplerate>
                     <depth>16</depth>
                   </samplecharacteristics>
-                  <channelcount>2</channelcount>
+                  <channelcount>8</channelcount>
                 </audio>
               </media>
             </file>
@@ -370,6 +370,7 @@
           </clipitem>
           <enabled>TRUE</enabled>
           <locked>FALSE</locked>
+          <outputchannelindex>2</outputchannelindex>
         </track>
       </audio>
     </media>
