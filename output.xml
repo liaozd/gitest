@@ -138,7 +138,7 @@
               <linkclipref>1102_280_d_05_499_0148 2</linkclipref>
               <mediatype>audio</mediatype>
               <trackindex>2</trackindex>
-              <clipindex>2</clipindex>
+              <clipindex>1</clipindex>
             </link>
           </clipitem>
           <clipitem id="1102_280_d_05_499_0149 ">
@@ -193,13 +193,13 @@
               <linkclipref>1102_280_d_05_499_0149</linkclipref>
               <mediatype>video</mediatype>
               <trackindex>1</trackindex>
-              <clipindex>1</clipindex>
+              <clipindex>2</clipindex>
             </link>
             <link>
               <linkclipref>1102_280_d_05_499_0149 1</linkclipref>
               <mediatype>audio</mediatype>
               <trackindex>1</trackindex>
-              <clipindex>1</clipindex>
+              <clipindex>2</clipindex>
             </link>
             <link>
               <linkclipref>1102_280_d_05_499_0149 2</linkclipref>
@@ -253,7 +253,7 @@
               <linkclipref>1102_280_d_05_499_0148 2</linkclipref>
               <mediatype>audio</mediatype>
               <trackindex>2</trackindex>
-              <clipindex>2</clipindex>
+              <clipindex>1</clipindex>
             </link>
           </clipitem>
           <clipitem id="1102_280_d_05_499_0149 ">
@@ -277,13 +277,13 @@
               <linkclipref>1102_280_d_05_499_0149</linkclipref>
               <mediatype>video</mediatype>
               <trackindex>1</trackindex>
-              <clipindex>1</clipindex>
+              <clipindex>2</clipindex>
             </link>
             <link>
               <linkclipref>1102_280_d_05_499_0149 1</linkclipref>
               <mediatype>audio</mediatype>
               <trackindex>1</trackindex>
-              <clipindex>1</clipindex>
+              <clipindex>2</clipindex>
             </link>
             <link>
               <linkclipref>1102_280_d_05_499_0149 2</linkclipref>
@@ -329,7 +329,7 @@
               <linkclipref>1102_280_d_05_499_0148 2</linkclipref>
               <mediatype>audio</mediatype>
               <trackindex>2</trackindex>
-              <clipindex>2</clipindex>
+              <clipindex>1</clipindex>
             </link>
           </clipitem>
           <clipitem id="1102_280_d_05_499_0149 ">
@@ -347,19 +347,19 @@
             <file id="1102_280_d_05_499_0149 2"/>
             <sourcetrack>
               <mediatype>audio</mediatype>
-              <trackindex>2</trackindex>
+              <trackindex>1</trackindex>
             </sourcetrack>
             <link>
               <linkclipref>1102_280_d_05_499_0149</linkclipref>
               <mediatype>video</mediatype>
               <trackindex>1</trackindex>
-              <clipindex>1</clipindex>
+              <clipindex>2</clipindex>
             </link>
             <link>
               <linkclipref>1102_280_d_05_499_0149 1</linkclipref>
               <mediatype>audio</mediatype>
               <trackindex>1</trackindex>
-              <clipindex>1</clipindex>
+              <clipindex>2</clipindex>
             </link>
             <link>
               <linkclipref>1102_280_d_05_499_0149 2</linkclipref>
