@@ -24,3 +24,6 @@ int main(int argc, char **argv)
 apple-1
 
 apple-2
+
+test for git fetch vs pull
+
